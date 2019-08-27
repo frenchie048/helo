@@ -1,0 +1,20 @@
+.auth-container {
+    /* background-image: linear-gradient(99deg,#ff70a6,#ff9770 40%,#ffd670 73%,#e9ff70); */
+    background-color: transparent;
+    height: 50vh;
+    width: 30vw;
+    border: 1px solid black;
+    border-radius: 5px;
+    /* FIX SHADOW */
+    box-shadow: 3px 3px rgba(65, 61, 61, 0.541);
+    color: white;
+}
+
+.auth-buttons button {
+    background-color: rgba(0, 0, 0, 0.822);
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
