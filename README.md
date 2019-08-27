@@ -75,15 +75,6 @@ INITIAL_STATE = {
     }
 - /api/crayon/id
 
-.env
-```js
-CONNECTION_STRING=
-SESSION_SECRET=
-REACT_APP_CLIENT_ID=
-REACT_APP_AUTH_DOMAIN=
-AUTH0_CLIENT_SECRET=
-```
-
 ## DB
 
 users
